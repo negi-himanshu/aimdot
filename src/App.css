@@ -1,0 +1,24 @@
+.Page {
+  background-color: #282c34;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #96C7C1;
+}
+
+.App-button {
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  padding: 8px 32px 8px 32px;
+  border-color: #96C7C1;
+  color: #96C7C1;
+}
+
+.App-button:hover {
+  transform: scale(1.1);
+  transition-duration: 0.4s;
+}
