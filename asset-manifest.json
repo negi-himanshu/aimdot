@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aimdot/static/css/main.94fd3a5e.chunk.css",
+    "main.js": "/aimdot/static/js/main.f0f0d7ab.chunk.js",
+    "main.js.map": "/aimdot/static/js/main.f0f0d7ab.chunk.js.map",
+    "runtime-main.js": "/aimdot/static/js/runtime-main.499e7458.js",
+    "runtime-main.js.map": "/aimdot/static/js/runtime-main.499e7458.js.map",
+    "static/js/2.e9054c58.chunk.js": "/aimdot/static/js/2.e9054c58.chunk.js",
+    "static/js/2.e9054c58.chunk.js.map": "/aimdot/static/js/2.e9054c58.chunk.js.map",
+    "static/js/3.859ee061.chunk.js": "/aimdot/static/js/3.859ee061.chunk.js",
+    "static/js/3.859ee061.chunk.js.map": "/aimdot/static/js/3.859ee061.chunk.js.map",
+    "index.html": "/aimdot/index.html",
+    "static/css/main.94fd3a5e.chunk.css.map": "/aimdot/static/css/main.94fd3a5e.chunk.css.map",
+    "static/js/2.e9054c58.chunk.js.LICENSE.txt": "/aimdot/static/js/2.e9054c58.chunk.js.LICENSE.txt",
+    "static/media/cover.96ee64d4.webp": "/aimdot/static/media/cover.96ee64d4.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.499e7458.js",
+    "static/js/2.e9054c58.chunk.js",
+    "static/css/main.94fd3a5e.chunk.css",
+    "static/js/main.f0f0d7ab.chunk.js"
+  ]
+}
